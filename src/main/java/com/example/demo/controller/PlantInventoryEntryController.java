@@ -29,7 +29,7 @@ public class PlantInventoryEntryController {
     @PostMapping(value="/plants")
     public  String create(PlantInventoryEntry plant){
         repo.save(plant);
-        return "redirect: /plants";
+        return "redirect:/plants";
     }
 
 }

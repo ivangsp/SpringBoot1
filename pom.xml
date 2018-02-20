@@ -41,7 +41,7 @@
 		</dependency>
 
 		<dependency>
-			<groupId>org.springframwwork.boot</groupId>
+			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-moven-plugin</artifactId>
 		</dependency>
 
